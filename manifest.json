@@ -1,0 +1,9 @@
+{
+  "short_name": "RE CRM",
+  "name": "Royal Enfield CRM Engine",
+  "start_url": "./index.html",
+  "background_color": "#0c0a0a",
+  "theme_color": "#E53517",
+  "display": "standalone",
+  "orientation": "portrait"
+}
